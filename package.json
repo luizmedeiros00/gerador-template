@@ -27,7 +27,7 @@
     "@ckeditor/ckeditor5-build-classic": "^19.0.2",
     "@ckeditor/ckeditor5-vue": "^1.0.1",
     "cross-env": "^5.2.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "rollup": "^1.14.4",
     "rollup-plugin-async": "^1.2.0",
     "rollup-plugin-buble": "^0.19.6",
