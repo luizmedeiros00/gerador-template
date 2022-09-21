@@ -37,6 +37,6 @@
     "rollup-plugin-vue": "^4.7.2",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   }
 }
